@@ -15,6 +15,6 @@ http://www.signalrt.com/2018/11/06/cloning-amazon-go-4-5/
 
 To execute this software you need to download the models from here:
 
-http://www.signalrt.com/wp-content/uploads/2018/11/AI_Models.zip
+http://www.signalrt.com/wp-content/uploads/2018/12/AI_Models.zip
 
 And decompress the models in the Data folder
